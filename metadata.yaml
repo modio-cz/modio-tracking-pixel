@@ -1,0 +1,5 @@
+homepage: "www.modio.cz",
+documentation: "https://www.modio.cz/tracking-pixel",
+versions:
+  - sha: ac5814d0d8573ec73644f301b6f69e19663bd38d
+    changeNotes: initial version
